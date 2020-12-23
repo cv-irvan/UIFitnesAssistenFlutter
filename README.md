@@ -1,6 +1,9 @@
-# fitnes_assisten
+# UIFitnesAssistenFlutter
 
-A new Flutter project.
+![ScreenShot](https://github.com/irvanthole/UIFitnesAssistenFlutter/blob/master/SS/Event.png)
+![ScreenShot](https://github.com/irvanthole/UIFitnesAssistenFlutter/blob/master/SS/Home.png)
+
+
 
 ## Getting Started
 
